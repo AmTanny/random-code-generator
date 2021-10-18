@@ -64,6 +64,7 @@ header {
     border: 0.25rem dotted #111;
     padding: 1.35rem;
     border-radius: 5px;
+    text-transform: uppercase;
 }
 
 .box .btn {
